@@ -7,7 +7,15 @@ The blog app is a web application that provides real-time blog posts. Based on p
 By the end of this project, you will be able to:
 1. Create a user-friendly interface using HTML and CSS to display blog posts.
 # Project Details:
+                       Overview
+                       
 ![Screenshot 2023-08-31 191905](https://github.com/Vamsikr2002/Building-apps/assets/115055314/9f3258ab-f211-4ae3-8f4a-cd280696d48c)
+                      Available blogs
+                      
 ![Screenshot 2023-08-31 164546](https://github.com/Vamsikr2002/Building-apps/assets/115055314/a0c15a37-eac6-4e5d-bb68-923a70cdac6e)
+                      Blog-2
+                      
 ![Screenshot 2023-08-31 191949](https://github.com/Vamsikr2002/Building-apps/assets/115055314/dc008db4-a58a-4258-8753-b3b4ca487545)
+                      Blog-3 and Aboutus
+                      
 ![Screenshot 2023-08-31 192008](https://github.com/Vamsikr2002/Building-apps/assets/115055314/ba1623ff-e204-4584-9403-8f932a1a139e)
